@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy seeing the world from a different prespective.\ 
+💡  &nbsp;I enjoy seeing the world from a different prespective.\ 
 🎓 &nbsp;I'm currently studying for my bachelors degree in computing at Belgium Campus.\
 🌱 &nbsp;I'm also working on expanding my knowlage in the direction of cyber security.\
 ✍️ &nbsp;I have started a business on the side and my plan is to expand my business once im done studying.\
@@ -24,9 +24,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://ludere.co.za/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/johan-taute-b66a3b182/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/johan_taute/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://ludere.co.za/"><img src="https://img.shields.io/badge/Johan%20Taute-Ludere-lightgrey"/></a>
+<a href="https://www.linkedin.com/in/johan-taute-b66a3b182/"><img src="https://img.shields.io/badge/Johan%20Taute-Linkedin-blue"/></a>
+<a href="https://www.instagram.com/johan_taute/"><img src="https://img.shields.io/badge/Johan%20Taute-Instagram-red"/></a>
 
 </p>
 
