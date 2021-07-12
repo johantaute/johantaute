@@ -2,12 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;I enjoy seeing the world from a different prespective.\  
-🎓 &nbsp;I'm currently studying for my bachelors degree in computing at Belgium Campus.\ 
-🌱 &nbsp;I'm also working on expanding my knowlage in the direction of cyber security.\ 
-✍️ &nbsp;I have started a business on the side and my plan is to expand my business once im done studying.\ 
-💬 &nbsp;Dont hesitate to reach out to me or ask me any questions.\ 
-✉️ &nbsp;You can shoot me an email at johan@ludere.co.za.\ 
+💡  &nbsp;I enjoy seeing the world from a different prespective.\ 
+🎓 &nbsp;I'm currently studying for my bachelors degree in computing at Belgium Campus.\
+🌱 &nbsp;I'm also working on expanding my knowlage in the direction of cyber security.\
+✍️ &nbsp;I have started a business on the side and my plan is to expand my business once im done studying.\
+💬 &nbsp;Dont hesitate to reach out to me or ask me any questions.\
+✉️ &nbsp;You can shoot me an email at johan@ludere.co.za.\
 
 
 ### 🛠 &nbsp;Tech Stack
