@@ -10,8 +10,6 @@
 
 💬 &nbsp;Dont hesitate to reach out to me or ask me any questions.
 
-✉️ &nbsp;You can shoot me an email at johan.taute@hotmail.co.za
-
 
 ### 🛠 &nbsp;Tech Stack
 
